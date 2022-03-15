@@ -4,3 +4,4 @@ Tasks:
 2. Create Ansible playbooks.
 3. Create JenkinsFiles
 4. Create DockerFiles
+5. Add more files
